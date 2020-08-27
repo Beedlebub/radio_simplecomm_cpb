@@ -19,6 +19,3 @@ radio.onReceivedMessage(RadioMessage.message1, function () {
     light.setAll(0xff0000)
 })
 radio.setGroup(1)
-forever(function () {
-	
-})
