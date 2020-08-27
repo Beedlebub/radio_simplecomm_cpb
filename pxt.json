@@ -1,0 +1,25 @@
+{
+    "name": "radio_simpleComm_CPB",
+    "description": "",
+    "dependencies": {
+        "adafruit-circuit-playground-bluefruit": "*",
+        "radio": "*",
+        "radio-broadcast": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "0.13.49",
+        "targetId": "maker"
+    },
+    "supportedTargets": [
+        "maker"
+    ],
+    "preferredEditor": "blocksprj"
+}
